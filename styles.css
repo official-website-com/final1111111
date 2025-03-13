@@ -245,6 +245,31 @@ h2 {
 .order-button:hover {
     background: #ff4757;
 }
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+}
+
+/* International Artists */
+.international-artists {
+    padding: 20px;
+}
+
+.artist {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.artist img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
 
 footer {
     background: #222;
